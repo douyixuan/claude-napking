@@ -2,3 +2,4 @@
 *.pyc
 __pycache__/
 .todo.md
+.agent/skills/skill-creator/
